@@ -8,7 +8,7 @@ Features:
 
 # Screenshots
 
-![](/Img/1.jpg)
-![](/Img/2.jpg)
-![](/Img/3.jpg)
-![](/Img/4.jpg)
+![](/Img/1.png)
+![](/Img/2.png)
+![](/Img/3.png)
+![](/Img/4.png)
