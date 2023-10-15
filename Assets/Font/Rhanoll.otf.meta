@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 284bb08654c4fa1439c0e83abde160ca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rhanoll
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e22d1020fb8056249b813b1731f90b2a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
