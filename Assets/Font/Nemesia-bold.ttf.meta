@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 696faf3cfa6d22745bb3ccee55c759b6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nemesia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d75026df65467294fad4272c6f14075f, type: 3}
+  - {fileID: 12800000, guid: 08966f7f70c1fed4786d29b1ef75a89e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
